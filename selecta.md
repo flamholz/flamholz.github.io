@@ -48,7 +48,7 @@ Arion Stettner and Daniel Segre wrote a nice commentary on our work [here](http:
 
 ![Central dogma sizes](/assets/scale_guy.png){: .center-image }
 
-A prelude to [Cell Biology by the Numbers](http://book.bionumbers.org/) on the importance of attaching numbers to biological phenomena, for without them we are just guessing wildly. We use the example of actin-based motility to show how quantitative studies can be used to link diverse studies together and draw inferences about cell physiology. With Rob Phillips and Ron Milo, [Molecular Biology of the Cell](http://www.molbiolcell.org/content/25/22/3497.full) 9.2014. 
+A prelude to [Cell Biology by the Numbers](http://book.bionumbers.org/) on the importance of attaching numbers to biological phenomena, for without them we are just guessing wildly. We use the example of actin-based motility to show how quantitative reasoning can be used to link diverse studies together and draw inferences about cell physiology. We would argue that all hypotheses should be quantified because the process forces you to confront what you do not know and what you cannot reasonably approximate. With Rob Phillips and Ron Milo, [Molecular Biology of the Cell](http://www.molbiolcell.org/content/25/22/3497.full) 9.2014. 
 
 #### "[A note on the kinetics of enzyme action: a decomposition that highlights thermodynamic effects](http://onlinelibrary.wiley.com/doi/10.1016/j.febslet.2013.07.028/full)" 
 
