@@ -14,4 +14,4 @@ I like thinking about other stuff too. Recent topics on my mind include:
 + why American college tuition is growing so quickly
 + TV shows, fiction and poems I like
 
-Prior to coming to Berkeley, I worked in the [Milo Lab](https://www.weizmann.ac.il/plants/Milo/home) at the [Weizmann Institute for Science](https://www.weizmann.ac.il/),  [Via Transportation](http://ridewithvia.com/) and at [Google](www.google.com) NYC. I do things aside from work too and maybe I'll write about that someday. 
+Prior to coming to Berkeley, I worked in the [Milo Lab](https://www.weizmann.ac.il/plants/Milo/home) at the [Weizmann Institute for Science](https://www.weizmann.ac.il/),  [Via Transportation](http://ridewithvia.com/) and at [Google](http://www.google.com) NYC. I sometimes do things aside from work too and maybe I'll write about that someday. 
