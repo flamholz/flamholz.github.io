@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hey. I'm Avi. I do biological research in the [Savage Lab](http://www.savagelab.com) at [UC Berkeley](http://www.berkeley.edu). In my work-time I'm often thinking about how physical laws and economic principles affect the behavior and organization of cells, organisms and ecosystems. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I like thinking about other stuff too. Recent topics on my mind include: 
++ climate science & environmental analysis in various forms
++ gerrymandering (how to stop it, methods for quantifying)
++ urban & public transit planning
++ public literacy about science & basic statistical principles
++ why American college tuition is growing so quickly
++ TV shows, fiction and poems I like
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Prior to coming to Berkeley, I worked in the [Milo Lab](https://www.weizmann.ac.il/plants/Milo/home) at the [Weizmann Institute for Science](https://www.weizmann.ac.il/),  [Via Transportation](http://ridewithvia.com/) and at [Google](www.google.com) NYC. I do stuff aside from work too and maybe I'll write about that someday. 
