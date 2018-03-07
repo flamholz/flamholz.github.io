@@ -4,7 +4,7 @@ title: Writing
 permalink: /selecta/
 ---
 
-## Writing for Non-Scientist Humans
+## For Non-Scientist Humans
 
 + "[An Interview with Geobiologist Woody Fischer](http://hypocritereader.com/69/woody-fischer-interview)" on the transformative effects photosynthesis has wrought on the Earth ecosystem. [The Hypocrite Reader](http://hypocritereader.com/69/woody-fischer-interview) 10.2016
 
@@ -32,19 +32,21 @@ These are my faves. Find a full listing on [Google Scholar](https://scholar.goog
 
 ![Illustration of a cyanobacterium](/assets/whole_cyano_csome.png){: .center-image }
 
-Cyanobacteria are the ancestors of all oxygenic photosynthesis on the planet and all cyanobacteria have a carboxysome-based CO2 concentrating mechanism (CCM). Many labs are interested in transplanting the cyanobacterial CCM into crop plants in order to improve their growth. Here we show that any reasonable description of the CCM must account for the enormous effect that pH has on the composition of the inorganic carbon pool both inside and outside cells. Once we account for the pH fully, we can produce a mathematical description of the CCM that is consistent with measurements of cyanobacterial physiology and biochemical intuition on multiple levels. With Niall Mangan, Rachel Hood, Ron Milo and David Savage, PNAS 2016. 
+Cyanobacteria are the ancestors of all oxygenic photosynthesis on the planet and all cyanobacteria have a carboxysome-based CO2 concentrating mechanism (CCM). Many labs are interested in transplanting the cyanobacterial CCM into crop plants in order to improve their growth. Here we show that any reasonable description of the CCM must account for the enormous effect that pH has on the composition of the inorganic carbon pool both inside and outside cells. Once we account for the pH fully, we can produce a mathematical description of the CCM that is consistent with measurements of cyanobacterial physiology and biochemical intuition on multiple levels. With Niall Mangan, Rachel Hood, Ron Milo and David Savage, [PNAS](http://www.pnas.org/content/113/36/E5354) 2016. 
 
 #### "[Glycolytic strategy as a tradeoff between energy yield and protein cost](http://www.pnas.org/content/110/24/10039)"
 
 ![EMP and ED pathways schematic](/assets/emp_ed.png){: .center-image }
 
-Offering a possible thermodynamic explanation for why so many bacteria appear to use non-canonical glycolytic pathways, especially the Entner–Doudoroff (ED) pathway. The textbook Embden-Meyerhoff-Parnass (EMP) pathway yields 2 ATP per glucose while most non-canonical pathways yield less. Naively we'd expect that cells should switch to higher yielding pathways, but they appear not to. Lower yield pathways are more thermodynamically favorable which, we suggest, makes them more suited to carrying high flux. With Elad Noor, Arren Bar-Even, Wolfram Liebermeister and Ron Milo, PNAS (2013). 
+Offering a possible thermodynamic explanation for why so many bacteria appear to use non-canonical glycolytic pathways, especially the Entner–Doudoroff (ED) pathway. The textbook Embden-Meyerhoff-Parnass (EMP) pathway yields 2 ATP per glucose while most non-canonical pathways yield less. Naively we'd expect that cells should switch to higher yielding pathways, but they appear not to. Lower yield pathways are more thermodynamically favorable which, we suggest, makes them more suited to carrying high flux. With Elad Noor, Arren Bar-Even, Wolfram Liebermeister and Ron Milo, [PNAS](http://www.pnas.org/content/110/24/10039) 2013. 
 
 Arion Stettner and Daniel Segre wrote a nice commentary on our work [here](http://www.pnas.org/content/110/24/9629.full). This paper - [Fuhrer et al. J. Bac 2005](http://jb.asm.org/content/187/5/1581.abstract) - from the [Sauer lab](http://www.imsb.ethz.ch/research/sauer.html) at ETH was a major motivation for this study and this lovely and partially confirmatory study on glycolysis in plants - [Chen et al., PNAS 2016](http://www.pnas.org/content/113/19/5441/tab-figures-data) - is worth reading.
 
 ### Commentary and Framing
 
 #### "[The Quantified Cell](http://www.molbiolcell.org/content/25/22/3497.full)" 
+
+![Central dogma sizes](/assets/scale_guy.png){: .center-image }
 
 A prelude to [Cell Biology by the Numbers](http://book.bionumbers.org/) on the importance of attaching numbers to biological phenomena, for without them we are just guessing wildly. We use the example of actin-based motility to show how quantitative studies can be used to link diverse studies together and draw inferences about cell physiology. With Rob Phillips and Ron Milo, [Molecular Biology of the Cell](http://www.molbiolcell.org/content/25/22/3497.full) 9.2014. 
 
