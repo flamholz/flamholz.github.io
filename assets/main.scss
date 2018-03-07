@@ -1,0 +1,12 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.center-image {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
