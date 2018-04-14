@@ -12,7 +12,7 @@ permalink: /selecta/
 
 ## Public Talks & Such
 
-+ "[Understanding the Greenhouse Effect from Classic Experiments](www.youtube.com/watch?v=s88fDQM0ycc&t=3s)" on the basic mechanism of the greenhouse effect, which we've understood for over 100 years. [Nerd Night East Bay](https://www.youtube.com/watch?v=s88fDQM0ycc&t=3s) 5.29.2017
++ "[Understanding the Greenhouse Effect from Classic Experiments](https://www.youtube.com/watch?v=s88fDQM0ycc&t=3s)" on the basic mechanism of the greenhouse effect, which we've understood for over 100 years. [Nerd Night East Bay](https://www.youtube.com/watch?v=s88fDQM0ycc&t=3s) 5.29.2017
 
 ## Online Resources
 
