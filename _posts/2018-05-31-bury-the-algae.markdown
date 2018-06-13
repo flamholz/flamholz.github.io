@@ -3,8 +3,9 @@ layout: post
 title:  "Just bury the algae?"
 date:   2018-05-31 11:00:00 -0800
 categories: environment carbon photosynthesis
-tags: environmentalism photosynthesis CO<sub>2</sub>
+tags: environmentalism photosynthesis CO2
 mathjax: true
+excerpt: The word "fossil", I think, conjurs images of dinosaurs. Maybe also fossilized leaves and coelacanths. But fossil fuels like petroleum are not formed from dinosaurs of course. They are mostly formed from algae, cyanobacteria and other small photosynthetic organisms...
 ---
 
 ![Land Before Time II](/assets/littlefoot.jpg){: .center-image }

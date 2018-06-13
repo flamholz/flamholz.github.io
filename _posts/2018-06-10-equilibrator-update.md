@@ -4,11 +4,12 @@ title:  "eQuilibrator update"
 date:   2018-06-10 11:30:00 -0800
 categories: biochemistry thermodynamics equilibrator
 tags: biochemistry thermodynamics equilibrator
+excerpt: Elad just pushed some nice updates to our biochemical thermodynamics calculator eQuilibrator...
 ---
 
 ![eQuilibrator Logo](/assets/equilibrator_logo_large.svg){: .center-image }
 
-[Elad](http://www.imsb.ethz.ch/research/sauer/people/eladnoor.html) just pushed some nice updates to our biochemical thermodynamics calculator [eQuilibration](http://equilibrator.weizmann.ac.il/). This is as good an opportunity as any to describe some of the nice improvements we've made to eQuilibrator over the last couple years. 
+[Elad](http://www.imsb.ethz.ch/research/sauer/people/eladnoor.html) just pushed some nice updates to our biochemical thermodynamics calculator [eQuilibrator](http://equilibrator.weizmann.ac.il/). This is as good an opportunity as any to describe some of the nice improvements we've made to eQuilibrator over the last couple years. 
 
 Here's a short list. Over the next couple weeks I'll also be posting short primers on clever ways to use eQuilibrator for teaching and research. 
 

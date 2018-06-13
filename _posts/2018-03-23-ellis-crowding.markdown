@@ -5,6 +5,7 @@ date:   2018-03-07 16:42:27 -0800
 categories: cytosol crowding
 tags: physics biochemistry cytosol driving-forces crowding excluded-volume
 mathjax: true
+excerpt: Usually when we do "in-vitro" experiments with purified proteins, AKA "biochemistry," the only protein in the tube is the one we are studying. OK, perhaps the tube contains our favorite protein and a few others...
 ---
 
 Usually when we do "in-vitro" experiments with purified proteins, AKA "biochemistry," the only protein in the tube is the one we are studying. OK, perhaps the tube contains our favorite protein and a few others. But as you can see in the in the illustration below (a [David Goodsell](http://mgl.scripps.edu/people/goodsell/illustration/public) classic), cytosol is hardly dilute - it is BURSTING with protein, DNA and RNA. The cytosol of a bacterial, yeast or mammalian cell contains [2-4 million proteins per cubic micron](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3910158/), otherwise known as a whole lot of proteins that we were not planning to study. 

@@ -4,6 +4,7 @@ title:  "eQuilibrator: Balancing Reactions"
 date:   2018-06-12 11:00:00 -0800
 categories: biochemistry thermodynamics equilibrator
 tags: biochemistry thermodynamics equilibrator
+excerpt: The more I study biology the more I realize that *I am not a chemist*. I studied computer science and applied math in college and made my way into biology slowly. After 8 years, I am comfortable with biology. But *I am not a chemist*...
 ---
 
 ![eQuilibrator Logo](/assets/equilibrator_logo_large.svg){: .center-image }

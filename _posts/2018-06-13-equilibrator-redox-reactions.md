@@ -4,11 +4,12 @@ title:  "eQuilibrator: Redox Reactions"
 date:   2018-06-13 08:00:00 -0800
 categories: biochemistry thermodynamics equilibrator
 tags: biochemistry thermodynamics equilibrator redox
+excerpt: An electron carrier is a molecule that can stably occupy reduced and oxidized states - like NAD+ and NADH diagrammed below. Most biological redox reactions involve the enzyme-catalyzed transfer of electrons to or from an electron carrier...
 ---
 
 ![eQuilibrator Logo](/assets/equilibrator_logo_large.svg){: .center-image }
 
-An electron carrier  is a molecule that can stably occupy reduced and oxidized states - like NAD+ and NADH diagrammed below. Most biological redox reactions involve the enzyme-catalyzed transfer of electrons to or from an electron carrier. If you took a biochemistry class at some point you probably learned about the common biological e- carriers: [NAD(P)H](https://en.wikipedia.org/wiki/NAD%2B), [FADH<sub>2</sub>](https://en.wikipedia.org/wiki/Flavin_adenine_dinucleotide), various [quinones](https://en.wikipedia.org/wiki/Quinone#Biochemistry), [ferredoxins](https://en.wikipedia.org/wiki/Ferredoxin) and, if you were lucky, the archaeal carrier [coenzyme F420](https://en.wikipedia.org/wiki/Coenzyme_F420). 
+An electron carrier is a molecule that can stably occupy reduced and oxidized states - like NAD+ and NADH diagrammed below. Most biological redox reactions involve the enzyme-catalyzed transfer of electrons to or from an electron carrier. If you took a biochemistry class at some point you probably learned about the common biological e- carriers: [NAD(P)H](https://en.wikipedia.org/wiki/NAD%2B), [FADH<sub>2</sub>](https://en.wikipedia.org/wiki/Flavin_adenine_dinucleotide), various [quinones](https://en.wikipedia.org/wiki/Quinone#Biochemistry), [ferredoxins](https://en.wikipedia.org/wiki/Ferredoxin) and, if you were lucky, the archaeal carrier [coenzyme F420](https://en.wikipedia.org/wiki/Coenzyme_F420). 
 
 ![Oxidized NAD+](/assets/NADox.gif){: .center-image }
 ![Reduced NADH](/assets/NADred.gif){: .center-image }
