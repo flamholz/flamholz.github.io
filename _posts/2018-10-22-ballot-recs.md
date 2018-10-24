@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "AF Nov 2016 Ballot Recommendations"
-date:   2018-10-30 13:30:00 -0800
+date:   2019-10-30 13:30:00 -0800
+published: false
 categories: voting california
 tags: oakland california voting ballot-propositions
 excerpt: I find myself sur
