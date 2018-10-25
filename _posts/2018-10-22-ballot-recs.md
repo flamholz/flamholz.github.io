@@ -22,7 +22,7 @@ Before I dig into my thoughts on people and propositions, a word of framing. I t
 + Proposition 7: Authorizes CA legislature to adopt permanent daylight savings time - *tentative no*
 + Proposition 8: Limits the profits of dialysis clinics - *tentative no*
 + Proposition 9: Split CA into 3, but No longer on the ballot!
-+ Proposition 10: Costa-Hawkins repeat - *tentative yes*
++ Proposition 10: Costa-Hawkins repeal, rent control up to cities - *tentative yes*
 + Proposition 11: Allow ambulance workers to remain on call during paid breaks - no
 + Proposition 12: Ban sale of meat & eggs from animals grown in confined spaces with certain dimensions - yes
 
