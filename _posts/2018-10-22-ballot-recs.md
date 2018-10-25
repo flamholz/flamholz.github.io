@@ -12,6 +12,8 @@ I've spent a bunch of time in the last couple weeks learning about the statewide
 
 Before I dig into my thoughts on people and propositions, a word of framing. I think ballot initiatives are a sometimes useful but mostly destructive tool of excessive democracy in California. I know that this is not a very popular or populist opinion, but I believe history is on my side. Please read about Proposition 13 and the Gann limit if you think props are just a fun exercise in direct democracy. Also we are all busy people and mostly don't have time to fully evaluate ballot propositions ourselves. There is a reason we elect representatives to run offices that do this for us. Nonetheless, we find ourselves with a crop of interesting and pretty strange initiatives and we gotta choose. My attitude is that the people who put the initiative on the ballot always want it to pass, so you should presumptively vote "no" if you reject the premise. In some cases I think the need is sufficiently compelling that I am gonna vote "yes", but I'm always leaning "no" on these propositions. 
 
+*An important caveat to the above* - [Props 1&2 were put on the ballot by the state legislature](https://ballotpedia.org/California_2018_ballot_propositions), which makes me feel a little more positively disposed towards them - i.e. that they are products of research & representative democracy.
+
 ## Statewide Propositions
 + Proposition 1: 4 billion in bond funds for homeless and veteran's housing - yes
 + Proposition 2: Authorize state use of mental health funds for housing - yes
