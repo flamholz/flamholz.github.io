@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "AF Nov 2016 Ballot Prop Recs"
+title:  "2018 Ballot Prop Recs AF"
 date:   2018-10-24 13:30:00 -0800
 published: true
 categories: voting california
 tags: california voting ballot-propositions
-excerpt: I've spent a bunch of time in the last couple weeks learning about the ballot initiatives in front of me for the November 6th election. These are my notes on how I'm thinking of voting
+excerpt: I've spent a bunch of time in the last couple weeks learning about the ballot initiatives in front of me for the November 6th election. These are my notes on how I'm thinking of voting, though I remain (evermore) open to compelling contrary arguments. Contact me up in person if you know me or on Twitter if you don't. I'll write something about local measures, candidates etc. later.
 ---
 
 I've spent a bunch of time in the last couple weeks learning about the statewide ballot initiatives in front of me for the November 6th election. These are my notes on how I'm thinking of voting, though I remain (evermore) open to compelling contrary arguments. Contact me up in person if you know me or on Twitter if you don't. I'll write something about local measures, candidates etc. later.
