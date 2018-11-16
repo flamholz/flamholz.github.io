@@ -28,7 +28,7 @@ These are my faves. Find a full listing on [Google Scholar](https://scholar.goog
 
 ### Primary Research
 
-#### *Prepint* "[Revisiting tradeoffs between Rubisco kinetic parameters](https://www.biorxiv.org/content/early/2018/11/14/470021)" 
+#### *Preprint* "[Revisiting tradeoffs between Rubisco kinetic parameters](https://www.biorxiv.org/content/early/2018/11/14/470021)" 
 
 ![RuBisCO illustration by David Goodsell](https://cdn.rcsb.org/pdb101/motm/images/two-forms.gif){: .center-image }
 
