@@ -28,7 +28,7 @@ These are my faves. Find a full listing on [Google Scholar](https://scholar.goog
 
 ### Primary Research
 
-#### *Preprint* "[Revisiting tradeoffs between Rubisco kinetic parameters](https://www.biorxiv.org/content/early/2018/11/14/470021)" 
+#### *Preprint* "[Revisiting tradeoffs between Rubisco kinetic parameters](https://www.biorxiv.org/content/early/2018/11/15/470021)" 
 
 ![RuBisCO illustration by David Goodsell](https://cdn.rcsb.org/pdb101/motm/images/two-forms.gif){: .center-image }
 
@@ -38,7 +38,7 @@ People often argue that there are tradeoffs between speed and specificity - i.e.
 
 This work started off as a journal club of [Tcherkez et al. PNAS 2006](http://www.pnas.org/content/103/19/7246) and [Savir et al. PNAS 2010](http://www.pnas.org/content/107/8/3475.short) that [Dave Savage](http://www.savagelab.org/) suggested I run when we visited [Ron Milo's lab](https://www.weizmann.ac.il/plants/Milo/home) in January 2018. [Noam Prywes](https://twitter.com/noamprywes?lang=en) and I scrounged together data for the JC and Uri Moran did a lot of the heavy lifting, combing the literature for as much Rubisco data as we could find. 
 
-Posted to [bioRxiv](https://www.biorxiv.org/content/early/2018/11/14/470021) November 2018. There's also a tweet summary [here](https://twitter.com/flamholz/status/1062789168550490112).
+Posted to [bioRxiv](https://www.biorxiv.org/content/early/2018/11/15/470021) November 2018. There's also a tweet summary [here](https://twitter.com/flamholz/status/1062789168550490112).
 
 #### "[pH determines the energetic efficiency of the cyanobacterial CO2 concentrating mechanism](http://www.pnas.org/content/113/36/E5354)" 
 
