@@ -19,6 +19,7 @@ There are a lot of overlapping options here at Cal and it can be confusing to fi
 
 There is an FAQ about the MCB PhD admissions [here](https://mcb.berkeley.edu/grad/prospective-graduates/admissions-and-recruitment) and a second FAQ about the PhD  program [here](https://mcb.berkeley.edu/grad/prospective-graduates/faq). Some additional specific details of the MCB program that might matter to you include.
 * MCB typically offers admission to about 10% of our 700-800 American applicants.
+* The admissions committee takes the complex issues of diversity in the MCB grad class very seriously and (in my opinion) in very good faith.
 * Due to funding issues, we offer admission to international applicants at a considerably lower rate. 
 * The MCB faculty is subdivided into [5 divisions](https://mcb.berkeley.edu/faculty-and-research/divisions) and those divisions are pretty loose.
 * The divisions basically don't matter right now - you can join a lab in any division and you can attend all the retreats your first year.
