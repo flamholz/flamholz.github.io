@@ -31,7 +31,10 @@ There is an FAQ about the MCB PhD admissions [here](https://mcb.berkeley.edu/gra
 * You take classes and rotate in your first year. 
 * You are also highly encouraged to apply for research fellowships (e.g. the [NSF GRFP](https://www.nsfgrfp.org/)) this year. 
 * Students typically rotate in 3 labs. 4th rotations are exceptional but possible.
-* First semester is dedicated to a 5-day-a-week survey class called MCB200. It's an introduction to modern molecular and cell biology and a great way to meet your classmates.
+* Rotations are chosen based on your preferences alone - faculty do not rank you.
+* You are guaranteed to get your first choice for at least one rotation.
+* First semester is dedicated to a 5-day-a-week survey class. 
+* MCB200 is an introduction to modern molecular and cell biology and a great way to meet your classmates.
 * Second semester you take 2+ graduate courses of your choosing. 
 * The only classes remaining after first year are research ethics and the 290 reading courses. 
 
