@@ -6,6 +6,10 @@ permalink: /selecta/
 
 ## For Non-Scientist Humans
 
++ "[Urbanism and Bike Share Maintenance](https://www.berkeleyside.com/2019/11/01/opinion-urbanism-and-bike-share-maintenance-a-review-of-bay-wheels)" a review of the Lyft-owned East Bay bike share service. [Berkeleyside](https://www.berkeleyside.com/2019/11/01/opinion-urbanism-and-bike-share-maintenance-a-review-of-bay-wheels) 10.2019
+
++ "[Bike Boulevards are Fiction](https://www.berkeleyside.com/2019/05/28/opinion-berkeleys-bike-boulevards-are-fictions)" on the joke that is Berkeley bike infrastructure. [Berkeleyside](https://www.berkeleyside.com/2019/05/28/opinion-berkeleys-bike-boulevards-are-fictions) 5.2019
+
 + "[An Interview with Geobiologist Woody Fischer](http://hypocritereader.com/69/woody-fischer-interview)" on the transformative effects photosynthesis has wrought on the Earth ecosystem. [The Hypocrite Reader](http://hypocritereader.com/69/woody-fischer-interview) 10.2016
 
 + "[An Interview with George Fox](http://hypocritereader.com/59/interview-george-fox)" on the evolution of life, the ribosome and the potential for alien inoculation of Earth. [The Hypocrite Reader](http://hypocritereader.com/59/interview-george-fox) 12.2015
