@@ -21,9 +21,9 @@ Before I dig in, some words. I think ballot initiatives are a sometimes useful b
 * Proposition 20: Expand the list of crimes for which early parole is prohibited. **No** 
 * Proposition 21: Expands local governments' power to use rent control. **Unsure**
 * Proposition 22: Uber, Lyft, etc. drivers are contractors, but get benefits like healthcare if they drive enough. **Unsure**
-* Proposition 22: Requires physician on-site at dialysis clinics. *No*
-* Proposition 24: Expands the provisions of the California Consumer Privacy Act (CCPA). *No*
-* Proposition 25: Replaces cash bail with statistical risk assessments. *No*
+* Proposition 22: Requires physician on-site at dialysis clinics. **No**
+* Proposition 24: Expands the provisions of the California Consumer Privacy Act (CCPA). **No**
+* Proposition 25: Replaces cash bail with statistical risk assessments. **No**
 
 # [Propositon 14](https://ballotpedia.org/California_Proposition_14,_Stem_Cell_Research_Institute_Bond_Initiative_(2020))
 The California Institute for Regenerative Medicine (CIRM) was initially created to fund stem cell research in with Proposition 71 in 2004. This was a response to the Bush administration's ban on federal funding for such research. This policy was subsequently reversed by the Obama administration, while the NIH research budget grew substantially during both [Bush and Obama](https://www.politifact.com/factchecks/2007/nov/02/hillary-clinton/nih-funding-is-up-under-bush/) eras. The NIH now funds this area of research well and is increasingly refocused on medical applications of research, so the primary motivation for California to fund translational stem cell research no longer exists. That said, much of the funding has, in the past, funded researchers at Stanford, Berkeley, UCSF, UCLA, etc. which is not a bad thing. I am voting no because the spending doesn't seem important given the changes to federal funding and because the bill does not have any convincing endorsements that I've found. 
