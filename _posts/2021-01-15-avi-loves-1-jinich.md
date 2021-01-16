@@ -5,17 +5,14 @@ date:   2021-01-15 11:00:00 -0800
 categories: twitter papers review
 tags: chemistry metabolism redox evolution
 mathjax: true
-excerpt: This week on #AviLovesYourPaper I re-read @champiDicty's "A thermodynamic atlas of carbon redox chemical space" - a really pleasing application of recent advances in computational chemistry to probe the origin and structure of cellular metabolism.
+excerpt: This week on &#35;AviLovesYourPaper I re-read @champiDicty's "A thermodynamic atlas of carbon redox chemical space" - a really pleasing application of recent advances in computational chemistry to probe the origin and structure of cellular metabolism.
 ---
 
 This post was converted from a [twitter thread](https://twitter.com/i/status/1350202444567908352) from [[January 15th, 2021]]:
 
-This week on #AviLovesYourPaper I re-read [@champiDicty](https://twitter.com/champiDicty)'s "A thermodynamic atlas of carbon redox chemical space" - a really pleasing application of recent advances in computational chemistry to probe the origin and structure of cellular metabolism [A thermodynamic atlas of carbon redox chemical space](https://www.pnas.org/content/117/52/32910)
+This week on #AviLovesYourPaper I re-read [@champiDicty](https://twitter.com/champiDicty)'s "[A thermodynamic atlas of carbon redox chemical space](https://www.pnas.org/content/117/52/32910)" - a really pleasing application of recent advances in computational chemistry to probe the origin and structure of cellular metabolism.
 
-Metabolism - the interconnected web of chemical transformations used by organisms to convert food in to usable energy and the chemical building blocks making up macromolecules of life - is surprisingly conserved. ![pic.twitter.com/v8ggtFvhSZ](https://twitter.com/flamholz/status/1350208169000148992/photo/1)
-
-Bacteria, animals and plants use a lot of the same pathways and molecules despite enormous differences in how these organisms live, breathe, eat and reproduce. For example: that glycolysis pathway you may have memorized once. [pic.twitter.com/x92HN0f0TV](https://twitter.com/flamholz/status/1350208173718683648/photo/1)
-
+Metabolism - the interconnected web of chemical transformations used by organisms to convert food in to usable energy and the chemical building blocks making up macromolecules of life - is surprisingly conserved. Bacteria, animals and plants use a lot of the same pathways and molecules despite enormous differences in how these organisms live, breathe, eat and reproduce. For example: that glycolysis pathway you may have memorized once. ![glycolysis](https://cdn.kastatic.org/ka-perseus-images/3ac5f05c70a76473139a0abb96318146af528f48.png)
 
 Adrian Jinich and friends ask: is there anything special about this conserved set of biological molecules? In particular, is there anything about their *thermodynamic* properties that distinguishes them? 
 
