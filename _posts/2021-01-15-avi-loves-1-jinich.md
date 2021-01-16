@@ -8,7 +8,7 @@ mathjax: true
 excerpt: This week on &#35;AviLovesYourPaper I re-read @champiDicty's "A thermodynamic atlas of carbon redox chemical space" - a really pleasing application of recent advances in computational chemistry to probe the origin and structure of cellular metabolism.
 ---
 
-This post was converted from a [twitter thread](https://twitter.com/i/status/1350202444567908352) from [[January 15th, 2021]]:
+This post was converted from a [twitter thread](https://twitter.com/i/status/1350202444567908352) from January 15th, 2021:
 
 This week on #AviLovesYourPaper I re-read [@champiDicty](https://twitter.com/champiDicty)'s "[A thermodynamic atlas of carbon redox chemical space](https://www.pnas.org/content/117/52/32910)" - a really pleasing application of recent advances in computational chemistry to probe the origin and structure of cellular metabolism.
 
