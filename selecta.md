@@ -32,7 +32,7 @@ These are my faves. Find a full listing on [Google Scholar](https://scholar.goog
 
 ### Primary Research
 
-#### "[Functional reconstitution of a bacterial CO2 concentrating mechanism in Escherichia coli](https://elifesciences.org/articles/59882)" 
+#### "[Functional reconstitution of a bacterial CO<sub>2</sub> concentrating mechanism in *E. coli*](https://elifesciences.org/articles/59882)" 
 
 ![Rubisco carboxylation dependent E. coli strain](/assets/ccmb1.png){: .center-image }
 
