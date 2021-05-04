@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Revisiting tradeoffs between rubisco kinetic parameters"
-date:   2020-10-21 13:30:00 -0800
+date:   2019-07-01 13:30:00 -0800
 published: true
 categories: publications
 tags: co2-fixation rubisco calvin-cycle
