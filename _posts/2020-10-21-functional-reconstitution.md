@@ -3,7 +3,7 @@ layout: post
 title:  "Functional reconstitution of a bacterial CO2 concentrating mechanism"
 date:   2020-10-21 13:30:00 -0800
 published: true
-categories: publications 
+categories: publications
 tags: co2-fixation bacteria synbio reconstitution
 excerpt: Many photosynthetic organisms have evolved CO<sub>2</sub>-concentrating mechanisms (CCMs) that compensate for the relative inefficiencies of rubisco by elevating CO<sub>2</sub> levels near the enzyme. Elevated CO<sub>2</sub> is doubly beneficial, bringing rubisco closer to CO<sub>2</sub>-saturation and also excluding O<sub>2</sub> from the active site (as explained [here](https://www.cell.com/current-biology/pdf/S0960-9822(20)30120-2.pdf)). CCMs are very significant on the global scale, responsible for perhaps 50% of global photosynthesis. CCMs are also very significant to the organisms harboring them: CCM mutants typically entirely fail to grow in ambient levels of CO<sub>2</sub> (0.04%) and require CO<sub>2</sub> supplementation to enable robust growth (usually 1-5%).
 ---
