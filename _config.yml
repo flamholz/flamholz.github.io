@@ -26,7 +26,8 @@ google_analytics: UA-115393996-1
 
 # Build settings
 markdown: kramdown
-toc_levels: 1,2
+kramdown:
+  toc_levels: 1..2
 theme: minima
 plugins:
   - jekyll-feed
