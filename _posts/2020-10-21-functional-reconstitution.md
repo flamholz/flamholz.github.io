@@ -5,7 +5,7 @@ date:   2020-10-21 13:30:00 -0800
 published: true
 categories: publications
 tags: co2-fixation bacteria synbio reconstitution
-excerpt: Many photosynthetic organisms have evolved CO2-concentrating mechanisms (CCMs) that compensate for the relative inefficiencies of rubisco by elevating CO2 levels near the enzyme. Elevated CO2 is doubly beneficial, bringing rubisco closer to CO2-saturation and also excluding O2 from the active site . CCMs are very significant on the global scale, responsible for perhaps 50% of global photosynthesis. CCMs are also very significant to the organisms harboring them: CCM mutants typically entirely fail to grow in ambient levels of CO2 (0.04%) and require CO2 supplementation to enable robust growth.
+excerpt: Many photosynthetic organisms have evolved CO2-concentrating mechanisms (CCMs) that compensate for the relative inefficiencies of rubisco by elevating CO2 levels near the enzyme. Elevated CO2 is doubly beneficial, bringing rubisco closer to CO2-saturation and also excluding O2 from the active site. CCMs are very significant on the global scale, responsible for perhaps 50% of global photosynthesis. CCMs are also very significant to the organisms harboring them. CCM mutants typically entirely fail to grow in ambient levels of CO2 (0.04%) and require CO2 supplementation to enable robust growth.
 ---
 
 This post is a reflection on and summary of my recently published work with collaborators: Flamholz AI, Dugan E, Blikstad C, Gleizer S, Ben-Nissan R, Amram S, Antonovsky N, Ravishankar S, Noor E, Bar-Even A, Milo R, Savage D. 2020. [Functional reconstitution of a bacterial CO2 concentrating mechanism in *E. coli*](https://elifesciences.org/articles/59882). Elife 9. doi:10.7554/eLife.59882
