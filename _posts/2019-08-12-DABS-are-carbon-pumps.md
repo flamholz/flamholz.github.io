@@ -5,7 +5,7 @@ date:   2018-08-12 13:30:00 -0800
 published: true
 categories: publications
 tags: co2-fixation CCM chemoautotrophy
-excerpt: Using RB-TNSeq we compared the phenotypes of 70,000 knockout mutants between ambient air - where the CCM is required for growth - and elevated CO<sub>2</sub> (where the CCM is dispensable). 17 genes appear to be required for CCM function, including all known carboxysome genes, three transcriptional regulators, a putative Rubisco chaperone, and a pair of candidate transporters.
+excerpt: Using RB-TNSeq we compared the phenotypes of 70,000 knockout mutants between ambient air, where the CCM is required for growth, and elevated CO<sub>2</sub> (where the CCM is dispensable). 17 genes appear to be required for CCM function, including all known carboxysome genes, three transcriptional regulators, a putative Rubisco chaperone, and a pair of candidate transporters.
 ---
 
 This post is a reflection on and summary of my recent work with Jack Desmarais and several other members of the [Savage lab](https://twitter.com/SavageCatsOnly): Desmarais JJ, Flamholz AI, Blikstad C, Dugan EJ, Laughlin TG, Oltrogge LM, Chen AW, Wetmore K, Diamond S, Wang JY, Savage DF. 2019. [DABs are inorganic carbon pumps found throughout prokaryotic phyla](https://www.nature.com/articles/s41564-019-0520-8). Nat Microbiol 4:2204–2215. doi:10.1038/s41564-019-0520-8 
