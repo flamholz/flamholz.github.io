@@ -4,9 +4,10 @@ title: Writing
 permalink: /selecta/
 ---
 
+* TOC
 {:toc}
 
-## Writing and Talks For All
+## Public Writing and Talks
 
 + "[Urbanism and Bike Share Maintenance](https://www.berkeleyside.com/2019/11/01/opinion-urbanism-and-bike-share-maintenance-a-review-of-bay-wheels)" a review of the Lyft-owned East Bay bike share service. [Berkeleyside](https://www.berkeleyside.com/2019/11/01/opinion-urbanism-and-bike-share-maintenance-a-review-of-bay-wheels) 10.2019
 
