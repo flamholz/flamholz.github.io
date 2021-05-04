@@ -1,6 +1,6 @@
 ---
-layout: no-title-page
-title: nil
+layout: page
+title: Writing
 permalink: /selecta/
 ---
 
