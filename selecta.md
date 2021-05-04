@@ -4,6 +4,7 @@ title: Writing
 permalink: /selecta/
 ---
 
+**Contents**
 * TOC
 {:toc}
 
