@@ -46,10 +46,10 @@ For the last 6 months or so I’ve been following in Dad’s footsteps with my f
 
 In light of this experience of my Dad’s marginalia I want to suggest that we imagine ourselves today like [Billy Collin’s Irish monks](https://www.poetryfoundation.org/poetrymagazine/browse?contentId=39493) 
 
-> in their cold scriptoria
-> jotting along the borders of the Gospels
+> in their cold scriptoria  
+> jotting along the borders of the Gospels  
 
-anonymous men and women "catching a ride on a vessel more lasting than ourselves."" In my case that vessel is often Jewish and often American and very often brought to me through conversations with my father, his clear concise cursive reminding me that I am not the first to walk this path and there are many fruitful conversations to be had, many things to be accomplished if only we take the time to understand the intervening 30 pages. As my sister Eta says, nothing would have pleased Dad more than to see us all reading together. 
+anonymous men and women "catching a ride on a vessel more lasting than ourselves." In my case that vessel is often Jewish and often American and very often brought to me through conversations with my father, his clear concise cursive reminding me that I am not the first to walk this path and there are many fruitful conversations to be had, many things to be accomplished if only we take the time to understand the intervening 30 pages. As my sister Eta says, nothing would have pleased Dad more than to see us all reading together. 
 
 In homage to my mother I must also say: it’s not just about the reading, you know. As for a [bracha](https://jel.jewish-languages.org/words/81), words and action are intertwined. In this vein, I want to suggest that we imagine ourselves as my father described himself to me – a high-school boy, the manager of the BTA basketball team, sitting in rapt attention on the highest steps of the fire escape at Brooklyn Torah Academy, watching the mostly black boys at the neighboring [Erasmus Hall](https://en.wikipedia.org/wiki/Erasmus_Hall_High_School) High School practice their most elegant game: basketball. They were so good, he said, so coordinated and so practiced. Dad wished he could play like them. Maybe for today we can inhabit the minds of young boys and girls dreaming of sports – find ourselves appreciating the finer details of Erasmus’ passing game and pantomiming that hook-shot in our heads. Loving the elegant game and imagining that someday we too might play it. 
 
