@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Don't be a postdoctoral fellow, be a postdoctoral employee"
-date:   2022-10-17 07:30:00 -0800
+date:   2022-10-17 05:00:00 -0800
 published: true
 categories: academia postdoc
 tags: postdoc employment fellowships academia
