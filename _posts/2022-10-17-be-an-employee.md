@@ -5,7 +5,7 @@ date:   2022-10-17 05:00:00 -0800
 published: true
 categories: academia postdoc
 tags: postdoc employment fellowships academia
-excerpt: Count among the many things no one ever explained to me about academia: that postdocs awarded fellowships are often not employees of their host institutions.
+excerpt: "Count among the many things no one ever explained to me about academia: that postdocs awarded fellowships are often not employees of their host institutions."
 ---
 
 Count among the many things no one ever explained to me about academia: that postdocs awarded external fellowships are typically not employees of their host institutions. I am lucky to have won a postdoctoral fellowship; I work at Caltech, but I am not an employee of Caltech. My title is "postdoctoral scholar" and my pay is a "stipend" rather than a salary. Caltech pays no payroll taxes for me, and I am ineligible for standard employment benefits guaranteed by the federal government (e.g. pre-tax contributions to an employer sponsored 401K) or by the State of California (e.g. paid parental leave). 
