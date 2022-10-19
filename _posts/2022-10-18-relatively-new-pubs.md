@@ -55,6 +55,13 @@ Cells have lots of very similar co-enzymes, especially those participating in re
 
 Goldford JE, George AB, Flamholz AI, Segrè D. 2022. [Protein cost minimization promotes the emergence of coenzyme redundancy](https://www.pnas.org/doi/full/10.1073/pnas.2110787119). Proc Natl Acad Sci U S A 119:e2110787119.
 
+# eQuilibrator 3.0 and API
+
+In my first project in the Milo lab (≈2010) I worked with with [Elad Noor](https://scholar.google.com/citations?user=E4UymDMAAAAJ&hl=en) to build [eQuilibrator](https://equilibrator.weizmann.ac.il/), an online calculator for estimating the thermodynamic potentials of metabolic reactions. Over the years we have greatly improved the website, and, with the help of several crucial collaborators like Moritz Beber, developed a programmatic API. The API enables modelers to get make arbitrary estimates $\Delta$G estimates without crashing the website, and permits more accurate calculations by giving access to the covariance between related thermodynamic estimates.
+
+Beber ME, Gollub MG, Mozaffari D, Shebek KM, Flamholz AI, Milo R, Noor E. 2021. [eQuilibrator 3.0: a database solution for thermodynamic constant estimation](https://academic.oup.com/nar/article/50/D1/D603/6445959). Nucleic Acids Res.
+
+
 # COVID adventures
 
 Early in the pandemic I participated in a series of "by the numbers" efforts with my former advisor, [Ron Milo](https://www.weizmann.ac.il/plants/Milo/home), and my current co-mentor [Rob Phillips](https://www.rpgroup.caltech.edu/). These efforts were designed to provide accurate reference for quantitative values relating to the virus and the infection, and to put those numbers in context for scientific and broader audiences. 
@@ -67,4 +74,5 @@ While I was still at Berkeley (through Sept. 2021), I also got involved with an 
 
 1. Crits-Christoph A, Kantor RS, Olm MR, Whitney ON, Al-Shayeb B, Lou YC, Flamholz A, Kennedy LC, Greenwald H, Hinkle A, Hetzel J, Spitzer S, Koble J, Tan A, Hyde F, Schroth G, Kuersten S, Banfield JF, Nelson KL. 2021. [Genome Sequencing of Sewage Detects Regionally Prevalent SARS-CoV-2 Variants](https://journals.asm.org/doi/10.1128/mBio.02703-20). MBio 12.
 2. Greenwald HD, Kennedy LC, Hinkle A, Whitney ON, Fan VB, Crits-Christoph A, Harris-Lovett S, Flamholz AI, Al-Shayeb B, Liao LD, Beyers M, Brown D, Chakrabarti AR, Dow J, Frost D, Koekemoer M, Lynch C, Sarkar P, White E, Kantor R, Nelson KL. 2021. [Tools for interpretation of wastewater SARS-CoV-2 temporal and spatial trends demonstrated with data collected in the San Francisco Bay Area](https://www.sciencedirect.com/science/article/pii/S2589914721000244?via%3Dihub). Water Research X 12:100111.
+
 
