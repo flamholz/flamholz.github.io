@@ -12,7 +12,7 @@ Since I last updated this site, I've published a few papers and preprints. I'll 
 
 # Understanding the metabolism of microbial communities
 
-I have been trying to quantify spatiotemporal changes in O<sub>2</sub> concentrations during the growth of bacterial biofilms. The goal is to understand the physical and chemical limits on growth and metabolic rates in spatially-structured environments like biofilms, soils and tissues. Unfortunately, we found that many of the bacteria we study secrete molecules that confound optical quantification of O<sub>2</sub>, so we wrote a short report with data documenting the problems. 
+In my postdoc work with [Dianne Newman](https://dknweb.caltech.edu/) and [Rob Phillips](https://www.rpgroup.caltech.edu/), I have been trying to quantify spatiotemporal changes in O<sub>2</sub> concentrations during the growth of bacterial biofilms. The goal is to understand the physical and chemical limits on growth and metabolic rates in spatially-structured environments like biofilms, soils and tissues. Unfortunately, we found that many of the bacteria we study secrete molecules that confound optical quantification of O<sub>2</sub> by existing methods, so we wrote a short report with data documenting the problems. 
 
 Flamholz AI, Saccomano S, Cash K, Newman DK. 2022. [Optical O<sub>2</sub> sensors also respond to redox active molecules commonly secreted by bacteria](https://www.biorxiv.org/content/10.1101/2022.08.08.503264v1). bioRxiv (accepted at mBio).
 
@@ -35,6 +35,13 @@ Wang RZ, Nichols RJ, Liu AK, Flamholz AI, Banda DM, Savage DF, Eiler JM, Shih PM
 When my dear friend and mentor Danny Tawfik died unexpectedly in May 2021, he had just presented this manuscript to his lab. In it, he explored the consequences of a simple observation: some modern enzyme superfamilies share a catalytic mechanism, while others share a non-catalytic binding motif (e.g. they bind phosphates). What could non-catalytic binding have achieved for emerging enzyme families? In simple models of early catalysts, such "uniform binding" - equal stabilization of bound states - cannot produce rate acceleration. Danny proposed that we turn our attention to negative-catalysis, where binding slows a dispreferred solution reaction e.g. by exclusion of water or metal. This mode of catalysis may be especially crucial early in enzyme evolution. It was my privilege to help escort Danny on one last speculation about one of his favorite topics: the early evolution of enzyme catalysis. All the more so because I was able to do so with cherished co-authors. 
 
 Noor E\*, Flamholz AI\*, Jayaraman V\*, Ross BL\*, Cohen Y, Patrick WM, Gruic-Sovulj I, Tawfik DS. 2022. [Uniform binding and negative catalysis at the origin of enzymes](https://onlinelibrary.wiley.com/doi/10.1002/pro.4381). Protein Sci 31.
+
+# Disequilibrium improves information transmission in transcription
+
+Working with Nick Lammers and [Hernan Garcia](http://garcialab.berkeley.edu/), we used information theory and statistical physics to study how energy dissipation (ATP) can be harnessed to improve the performance of model gene regulatory networks. This work was motivated in particular by Nick and Hernan's work on fly development, where fast transmission of information from the local environment (the concentration of transcription factors) to output (transcription and translation of genes important in the next developmental cycle) is critical due to rapid developmental timescales (minutes per cycle). We show that biologically plausible levels of energy input can lead to significant gains information transmission, but the optimal regulatory mechanisms for realizing these gains depend on the "design goals" - limiting noise or maximizing dynamic range - and on context - e.g. the degree of interference from transcription factors outside the network.  
+
+Lammers NC, Flamholz AI, Garcia HG. 2022. [Competing constraints shape the non-equilibrium limits of cellular decision making](https://www.biorxiv.org/content/10.1101/2022.07.01.498451v1.abstract). bioRxiv.
+
 
 # Human impacts on the Earth system
 
