@@ -57,7 +57,7 @@ Goldford JE, George AB, Flamholz AI, Segrè D. 2022. [Protein cost minimization 
 
 # eQuilibrator 3.0 and API
 
-In my first project in the Milo lab (≈2010) I worked with with [Elad Noor](https://scholar.google.com/citations?user=E4UymDMAAAAJ&hl=en) to build [eQuilibrator](https://equilibrator.weizmann.ac.il/), an online calculator for estimating the thermodynamic potentials of metabolic reactions. Over the years we have greatly improved the website, and, with the help of several crucial collaborators like Moritz Beber, developed a programmatic API. The API enables modelers to get make arbitrary estimates $\Delta$G estimates without crashing the website, and permits more accurate calculations by giving access to the covariance between related thermodynamic estimates.
+In my first project in the Milo lab (≈2010) I worked with with [Elad Noor](https://scholar.google.com/citations?user=E4UymDMAAAAJ&hl=en) to build [eQuilibrator](https://equilibrator.weizmann.ac.il/), an online calculator for estimating the thermodynamic potentials of metabolic reactions. Over the years we have greatly improved the website, and, with the help of several crucial collaborators like Moritz Beber, developed a programmatic API. The API enables modelers to get make arbitrary estimates ΔG estimates without crashing the website, and permits more accurate calculations by giving access to the covariance between related thermodynamic estimates.
 
 Beber ME, Gollub MG, Mozaffari D, Shebek KM, Flamholz AI, Milo R, Noor E. 2021. [eQuilibrator 3.0: a database solution for thermodynamic constant estimation](https://academic.oup.com/nar/article/50/D1/D603/6445959). Nucleic Acids Res.
 
