@@ -8,18 +8,6 @@ permalink: /selecta/
 * TOC
 {:toc}
 
-## Public Writing and Talks
-
-+ "[Urbanism and Bike Share Maintenance](https://www.berkeleyside.com/2019/11/01/opinion-urbanism-and-bike-share-maintenance-a-review-of-bay-wheels)" a review of the Lyft-owned East Bay bike share service. [Berkeleyside](https://www.berkeleyside.com/2019/11/01/opinion-urbanism-and-bike-share-maintenance-a-review-of-bay-wheels) 10.2019
-
-+ "[Bike Boulevards are Fiction](https://www.berkeleyside.com/2019/05/28/opinion-berkeleys-bike-boulevards-are-fictions)" on the joke that is Berkeley bike infrastructure. [Berkeleyside](https://www.berkeleyside.com/2019/05/28/opinion-berkeleys-bike-boulevards-are-fictions) 5.2019
-
-+ "[An Interview with Geobiologist Woody Fischer](http://hypocritereader.com/69/woody-fischer-interview)" on the transformative effects photosynthesis has wrought on the Earth ecosystem. [The Hypocrite Reader](http://hypocritereader.com/69/woody-fischer-interview) 10.2016
-
-+ "[An Interview with George Fox](http://hypocritereader.com/59/interview-george-fox)" on the evolution of life, the ribosome and the potential for alien inoculation of Earth. [The Hypocrite Reader](http://hypocritereader.com/59/interview-george-fox) 12.2015
-
-+ "[Understanding the Greenhouse Effect from Classic Experiments](https://www.youtube.com/watch?v=s88fDQM0ycc&t=3s)" on the basic mechanism of the greenhouse effect, which we've understood for over 100 years. [Nerd Night East Bay](https://www.youtube.com/watch?v=s88fDQM0ycc&t=3s) 5.29.2017
-
 ## Online Resources
 
 + "[eQuilibrator](http://equilibrator.weizmann.ac.il/), the Biochemical Thermodynamics Calculator." An online tool for calculating thermodynamic potentials of biochemical reactions using free-text search. Development ongoing with Elad Noor.
@@ -110,3 +98,16 @@ Pointing out that ideas from non-equilibrium thermodynamics can be used to rewri
 ![Favorability of internal e- transfers](/assets/redox_favorability.png){: .center-image }
 
 Explaining how central biochemical constraints limit the space of plausible glycolytic pathways. We consider how toxicitiy and permeability of metabolites as well as chemical feasibility and thermodynamic favorability of enzymatic mechanisms define a very small number of pathways for glucose metabolism (many of which are similar). A nice contribution of this work is the framing of non-oxidative (i.e. fermentative) metabolism as a process of "internal electron rearrangement" where one moiety within a molecule becomes reduced at the expense of oxidizing another. Knowing which of these transfers are favorable can help rationalize many metabolic pathway's structure. I really enjoy using these lines of reasoning in teaching. Primarily the work of [Arren Bar-Even](https://www.mpimp-golm.mpg.de/1926766/Systems-and-Synthetic-Metabolism) with some help from myself, Elad Noor and Ron Milo. [Nature Chemical Biology](https://www.nature.com/articles/nchembio.971) 2012.
+
+
+## Public Writing and Talks
+
++ "[Urbanism and Bike Share Maintenance](https://www.berkeleyside.com/2019/11/01/opinion-urbanism-and-bike-share-maintenance-a-review-of-bay-wheels)" a review of the Lyft-owned East Bay bike share service. [Berkeleyside](https://www.berkeleyside.com/2019/11/01/opinion-urbanism-and-bike-share-maintenance-a-review-of-bay-wheels) 10.2019
+
++ "[Bike Boulevards are Fiction](https://www.berkeleyside.com/2019/05/28/opinion-berkeleys-bike-boulevards-are-fictions)" on the joke that is Berkeley bike infrastructure. [Berkeleyside](https://www.berkeleyside.com/2019/05/28/opinion-berkeleys-bike-boulevards-are-fictions) 5.2019
+
++ "[An Interview with Geobiologist Woody Fischer](http://hypocritereader.com/69/woody-fischer-interview)" on the transformative effects photosynthesis has wrought on the Earth ecosystem. [The Hypocrite Reader](http://hypocritereader.com/69/woody-fischer-interview) 10.2016
+
++ "[An Interview with George Fox](http://hypocritereader.com/59/interview-george-fox)" on the evolution of life, the ribosome and the potential for alien inoculation of Earth. [The Hypocrite Reader](http://hypocritereader.com/59/interview-george-fox) 12.2015
+
++ "[Understanding the Greenhouse Effect from Classic Experiments](https://www.youtube.com/watch?v=s88fDQM0ycc&t=3s)" on the basic mechanism of the greenhouse effect, which we've understood for over 100 years. [Nerd Night East Bay](https://www.youtube.com/watch?v=s88fDQM0ycc&t=3s) 5.29.2017
