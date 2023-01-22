@@ -24,7 +24,9 @@ permalink: /selecta/
 
 + "[eQuilibrator](http://equilibrator.weizmann.ac.il/), the Biochemical Thermodynamics Calculator." An online tool for calculating thermodynamic potentials of biochemical reactions using free-text search. Development ongoing with Elad Noor.
 
-+ "[Classic Reactions](http://equilibrator.weizmann.ac.il/static/classic_rxns/classic_reactions/index.html)" - a primer on the basics of metabolism from a thermodynamic perspective. Housed on eQuilibrator and written with help from Elad Noor, Noam Prywes, Dave Savage and Ron Milo. 
++ "[Classic Reactions](http://equilibrator.weizmann.ac.il/static/classic_rxns/classic_reactions/index.html)" - a primer on the basics of metabolism from a thermodynamic perspective. Housed on eQuilibrator and written with help from Elad Noor, Noam Prywes, Dave Savage and Ron Milo.
+
++ "[Human Impacts Database](http://www.anthroponumbers.org/catalog/). Developed primarily by [Griffin Chure](https://gchure.github.io/) as part of the Human Impacts project in [Rob Phillips' group](https://www.rpgroup.caltech.edu/), which I contribute to.   
 
 + "[Avi's Faves](https://verse.press/playlist/avis-faves-1195790641368693502)" Poems my friend [Andrew](http://www.andrewbadr.com/) thinks I like. He is mostly right.
 
@@ -39,6 +41,11 @@ These are my faves. Find a full listing on [Google Scholar](https://scholar.goog
 ![How did the CCM evolve?](/assets/ccm_evolution_question.png){: .center-image }
 
 Working several friends, including my amazing technician Eli Dugan (now at [UCSF](https://marsonlab.org/people/)), I studied the evolution of a complex, multicompenent system called the bacterial CO<sub>2</sub>-concentrating mechanism (CCM), which enables all modern Cyanobacteria to grow robustly in today's atmosphere. The CCM is so tightly-integrated into host bactera that mutants lacking any one of ≈15 genes coding for core CCM components fail to grow in today's atmosphere (≈0.04% CO<sub>2</sub>). If every piece of the CCM is required for its modern function, how could it have evolved? In this paper we used the tools of synthetic biology to "resurrect" ancestral forms of bacterial CCMs by engineering modern bacteria to resemble ancient ones. Our experiments helped us understand how CCMs might have evolved in a piecemeal fashion by accruing individual components over billions of years as Earth's atmosphere was slowly changing. Collaborating with [Woody Fischer](https://www.gps.caltech.edu/people/woodward-fischer) (Caltech Geobiology) on this research deepened my interest in Earth science and paved the road to my postdoc at Caltech.
+
+#### "[Optical O<sub>2</sub> sensors also respond to redox active metabolites commonly secreted by bacteria.](https://journals.asm.org/doi/full/10.1128/mbio.02076-22)" 
+
+While my PhD was fixated on bacterial photosynthesis, my postdoc research has been focused on the other arm of the biological carbon cycle - respiration. While photosynthesis makes organic molecules from CO<sub>2</sub> and water by harnessing the energy of light, respiration uses the energy of O<sub>2</sub> (its tendency to take electrons) to break those same molecules down, piece by piece, forming CO<sub>2</sub> again. I was hoping to measure the respiratory rates at the scale of single bacterial colonies to understand how "microenvironments" are formed and maintained. In doing this, I encountered challenge that was not documented in the literature: many bacteria, including our preferred model organism, *P. aeruginosa*, secrete molecules that greatly interfere with optical O<sub>2</sub> sensors. This paper documents the problem and also offers some avenues to solve it. First: some bacteria, e.g. *E. coli*, secrete no problematic molecules. Second, it matters what the sensors are made of. Materials engineering could protect all optical nanosensors from interference by bacterial secretions. 
+
 
 #### "[Functional reconstitution of a bacterial CO<sub>2</sub> concentrating mechanism in *E. coli*](https://elifesciences.org/articles/59882)" 
 
