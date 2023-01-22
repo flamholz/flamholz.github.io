@@ -34,6 +34,14 @@ These are my faves. Find a full listing on [Google Scholar](https://scholar.goog
 
 ### Primary Research
 
+#### "[Trajectories for the evolution of bacterial CO<sub>2</sub>-concentrating mechanisms.](https://www.pnas.org/doi/10.1073/pnas.2210539119)" 
+
+![How did the CCM evolve?](/assets/ccm_evolution_question.png){: .center-image }
+
+Working several friends, including my amazing technician Eli Dugan (now at [UCSF](https://marsonlab.org/people/)), I studied the evolution of a complex, multicompenent system called the bacterial CO<sub>2</sub>-concentrating mechanism (CCM), which enables all modern Cyanobacteria to grow robustly in today's atmosphere. The CCM is so tightly-integrated into host bactera that mutants lacking any one of ≈15 genes coding for core CCM components fail to grow in today's atmosphere (≈0.04% CO<sub>2</sub>). If every piece of the CCM is required for its modern function, how could it have evolved? 
+
+The emergence of biological novelty is often coupled to the evolution of Earth’s chemical environment. As such, many scientists think that key to this conundrum lies in the history of our atmosphere. We are used to thinking about CO<sub>2</sub> concentrations rising due to human emissions, yet geolochemical measurements indicate that atmospheric CO<sub>2</sub> has actually decreased dramatically over the last several billion years. As such, modern Cyanobacteria must cope with much lower levels of their only carbon source than their ancient ancestors did. This hypothesis - that high-but-descreasing in atmospheric CO<sub>2</sub> "catalyzed" the evolution of bacterial CCMs - is compelling but was never been tested experimentally. I used a “synthetic biological” approach to assay the growth of the present-day bacteria engineered to resemble ancient ones in a variety of CO<sub>2</sub> levels. The collected data allow us to trace at least two feasible "fitness-positive" trajectories for the co-evolution of bacterial CCMs and with Earth's atmosphere. evolution could explain the evol  experiments show that it is possible to explain the emergence of bacterial CCMs if atmospheric CO<sub>2</sub> was once much higher than today, consistent with geochemical proxies. Taken together, our results delineated an unexpected “CO2-catalyzed” pathway for the evolution of bacterial CCMs, whose multiple emergence has been challenging to understand.
+
 #### "[Functional reconstitution of a bacterial CO<sub>2</sub> concentrating mechanism in *E. coli*](https://elifesciences.org/articles/59882)" 
 
 ![Rubisco carboxylation dependent E. coli strain](/assets/ccmb1.png){: .center-image }
@@ -69,6 +77,12 @@ Offering a possible thermodynamic explanation for why so many bacteria appear to
 Arion Stettner and Daniel Segre wrote a nice commentary on our work [here](http://www.pnas.org/content/110/24/9629.full). This paper - [Fuhrer et al. J. Bac 2005](http://jb.asm.org/content/187/5/1581.abstract) - from the [Sauer lab](http://www.imsb.ethz.ch/research/sauer.html) at ETH was a major motivation for this study. Subsequent to our paper, elegant experiments have shown that the ED pathway is likely present in plants and cyanobacteria ([Chen et al., PNAS 2016](http://www.pnas.org/content/113/19/5441/tab-figures-data)) and is a major route of bacterial degradation of sulfate-substituted sugar acids that derive from plant membranes ([Felux et al., PNAS 2015](https://www.pnas.org/content/112/31/E4298.long)).
 
 ### Commentary and Framing
+
+#### "[The metabolic rate is the trait](https://www.sciencedirect.com/science/article/pii/S096098222200224X)" 
+
+![Predicting metabolic rates of microbial communities](/assets/rate_trait.png){: .center-image }
+
+Making sense of the metabolism of microbial communities is a daunting, yet vital, task because microbes [run the world](https://www.science.org/doi/10.1126/science.1153213). By "run the world" I mean that microbial metabolism catalyzes many critical chemical transformation that recycle  elements like carbon, oxygen, sulfur, phosphorus and nitrogen, making them available for biological reuse and, thereby, supporting the entire biosphere. It is vitally important that microbes keep doing us this  favor, even as the climate changes and environments change with it (e.g. ocean acidification). Yet there are more than a trillion-trillion-trillion microbes on our planet (≈10<sup>30</sup>) representing roughly a million species. A single gram of soil might contain 1000 species and a trillion individual bugs. How could we possibly understand and predict something so complex? Here, my mentor, Dianne Newman, and I, offer commentary on a promising approach described in an amazing paper by [Karna Gowda](https://karnagowda.github.io/) and colleagues. Karna et al. broke ground on an optimistic hypothesis - that communal metabolic rates can be predicted from gene content. If this optimistic hypothesis is to be true for natural environments like soils, then it must also be true in the lab. Karna & friends used bacterial denitrification (nitrate "breathing") to learn how to compose predictions of microbial metabolic rates from genome sequences and a small number of lab measurements, achieving surprising quantitative success. Click through for more. 
 
 #### "[Cell biology of photosynthesis over geologic time](https://www.sciencedirect.com/science/article/pii/S0960982220301202)" 
 
