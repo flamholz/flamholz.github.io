@@ -22,7 +22,7 @@ Flamholz AI, Newman DK. 2022. [Microbial communities: The metabolic rate is the 
 
 # Synthetic biology to study Earth history
 
-Bridging my PhD and postdoc research, I recently used the [*E. coli* reconstitution of a bacterial CO2 concentrating mechanism](https://elifesciences.org/articles/59882) (CCM) that I developed to study how such a complex, multi-component system could have evolved. I hypothesized that CCM evolution was "catalyzed" by ancient CO<sub>2</sub> levels, which Earth scientists argue (from data) were one much higher than today. I used the reconstitution to show that high-but-decreasing CO<sub>2</sub> would indeed help explain the evolution of bacterial CCMs, which otherwise appear "irreducibly complex." Read the preprint for more detail: 
+Bridging my PhD and postdoc research, I recently used the [*E. coli* reconstitution of a bacterial CO<sub>2</sub> concentrating mechanism](https://elifesciences.org/articles/59882) (CCM) that I developed to study how such a complex, multi-component system could have evolved. I hypothesized that CCM evolution was "catalyzed" by ancient CO<sub>2</sub> levels, which Earth scientists argue (from data) were one much higher than today. I used the reconstitution to show that high-but-decreasing CO<sub>2</sub> would indeed help explain the evolution of bacterial CCMs, which otherwise appear "irreducibly complex." Read the preprint for more detail: 
 
 Flamholz AI\*, Dugan E\*, Panich J, Desmarais JJ, Oltrogge LM, Fischer WW, Singer SW, Savage DF. 2022. [Trajectories for the evolution of bacterial CO2-concentrating mechanisms](https://www.biorxiv.org/content/10.1101/2022.06.21.497102v2). bioRxiv.
 
