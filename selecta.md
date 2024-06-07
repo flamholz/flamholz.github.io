@@ -24,6 +24,18 @@ These are my faves. Find a full listing on [Google Scholar](https://scholar.goog
 
 ### Primary Research
 
+#### "[The proteome is a terminal electron acceptor.](https://www.biorxiv.org/content/10.1101/2024.01.31.578293v1.abstract)" 
+
+Today, two distinct frameworks are used to study microbial growth. One approach treats microbes as chemical agents, performing redox chemistry to conserve energy and assimilating nutrients (C, H, N, O, P, S) to form biomass. Another model describes the allocation of cells’ finite biosynthetic capacity to different catalytic roles — e.g., transport, protein synthesis — to achieve particular metabolic rates. These frameworks have distinct strengths: redox naturally describes a diversity of metabolic chemistries, while resource allocation explains the existence of intrinsic maximum growth rates, for example. In this preprint we introduce a unified redox-based resource allocation model that links physiology to environmental chemistry. This integration is conceptually useful — offering concise explanations for key microbiological phenomena — and also predictive — uncovering an unexpected mode of sequence evolution wherein proteins are selected for their ability to participate in the redox chemistry of metabolism, i.e. for their ability to serve as a terminal electron acceptor. 
+
+#### "[Annotation-free prediction of microbial dioxygen utilization.](https://www.biorxiv.org/content/10.1101/2024.01.16.575888v1.abstract)" 
+
+We now have access to sequence data from a wide variety of natural environments. These data document a bewildering diversity of microbes, many known only from their genomes. We now know that physiology -- an organism’s capacity to engage metabolically with its environment -- often provides a more useful lens than taxonomy for understanding microbial communities. As an example of this broader principle, we developed algorithms that accurately predict microbial dioxygen utilization directly from genome sequences without annotating genes, e.g. by considering only the amino acids in protein sequences. Annotation-free algorithms enabled rapid characterization of natural samples, highlighting quantitative correspondence between sequences and local oxygen levels in a dataset from the Black Sea. This example suggests that DNA sequencing can be repurposed as a multi-pronged chemical sensor, estimating concentrations of oxygen along with other key facets of complex natural settings.
+
+#### "[Closed ecosystems extract energy through self-organized nutrient cycles.](https://www.pnas.org/doi/abs/10.1073/pnas.2309387120)" 
+
+Life on Earth relies on sunlight for energy, but this energy can only be exploited through the collective recycling of matter by communities of microbes, plants, and animals. Despite these basic facts of life on Earth, we currently lack a framework for understanding how ecosystems can organize themselves to collectively capture the sun’s energy. In this paper, we advance a conceptual model to study the collective properties of nutrient-recycling ecosystems. Surprisingly, even though species “greedily” extract energy from the environment, sufficiently diverse communities of species almost always manage to sustain themselves by extracting enough energy. Further, the amount of energy extracted by these self-organized communities is close to the maximum possible and much greater (≈100x) than extracted by random collections of species.
+
 #### "[Trajectories for the evolution of bacterial CO<sub>2</sub>-concentrating mechanisms.](https://www.pnas.org/doi/10.1073/pnas.2210539119)" 
 
 ![How did the CCM evolve?](/assets/ccm_evolution_question.png){: .center-image }
@@ -70,6 +82,10 @@ Offering a possible thermodynamic explanation for why so many bacteria appear to
 Arion Stettner and Daniel Segre wrote a nice commentary on our work [here](http://www.pnas.org/content/110/24/9629.full). This paper - [Fuhrer et al. J. Bac 2005](http://jb.asm.org/content/187/5/1581.abstract) - from the [Sauer lab](http://www.imsb.ethz.ch/research/sauer.html) at ETH was a major motivation for this study. Subsequent to our paper, elegant experiments have shown that the ED pathway is likely present in plants and cyanobacteria ([Chen et al., PNAS 2016](http://www.pnas.org/content/113/19/5441/tab-figures-data)) and is a major route of bacterial degradation of sulfate-substituted sugar acids that derive from plant membranes ([Felux et al., PNAS 2015](https://www.pnas.org/content/112/31/E4298.long)).
 
 ### Commentary and Framing
+
+#### "[Matching metabolic supply to demand optimizes microbial growth](https://www.cell.com/trends/microbiology/fulltext/S0966-842X(23)00174-9)" 
+
+Recent research has strengthened the notion that microbes allocate their biosynthetic capacity to maximize the growth rate. Yet many microbes can grow substantially faster after laboratory evolution. Here Akshit Goyal and I comment on a resource-allocation model from [Chure and Cremer](https://elifesciences.org/articles/84878), which they derive from first principles, that offers resolution to this conundrum.
 
 #### "[The metabolic rate is the trait](https://www.sciencedirect.com/science/article/pii/S096098222200224X)" 
 
