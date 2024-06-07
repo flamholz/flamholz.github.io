@@ -34,7 +34,7 @@ We now have access to sequence data from a wide variety of natural environments.
 
 #### "[Closed ecosystems extract energy through self-organized nutrient cycles.](https://www.pnas.org/doi/abs/10.1073/pnas.2309387120)" 
 
-Life on Earth relies on sunlight for energy, but this energy can only be exploited through the collective recycling of matter by communities of microbes, plants, and animals. Despite these basic facts of life on Earth, we currently lack a framework for understanding how ecosystems can organize themselves to collectively capture the sun’s energy. In this paper, we advance a conceptual model to study the collective properties of nutrient-recycling ecosystems. Surprisingly, even though species “greedily” extract energy from the environment, sufficiently diverse communities of species almost always manage to sustain themselves by extracting enough energy. Further, the amount of energy extracted by these self-organized communities is close to the maximum possible and much greater (≈100x) than extracted by random collections of species.
+Life on Earth relies on sunlight for energy, but this energy can only be exploited through the collective recycling of matter by communities of microbes, plants, and animals. Despite these basic facts of life on Earth, we currently lack a framework for understanding how ecosystems can organize themselves to collectively capture the sun’s energy. In this paper, led by [Akhit Goyal](https://www.icts.res.in/people/akshit-goyal) and [Arvind Murugan](https://physics.uchicago.edu/people/profile/arvind-murugan/), we advance a conceptual model to study the collective properties of nutrient-recycling ecosystems. Surprisingly, even though species “greedily” extract energy from the environment, sufficiently diverse communities of species almost always manage to sustain themselves by extracting enough energy. Further, the amount of energy extracted by these self-organized communities is close to the maximum possible and much greater (≈100x) than extracted by random collections of species.
 
 #### "[Trajectories for the evolution of bacterial CO<sub>2</sub>-concentrating mechanisms.](https://www.pnas.org/doi/10.1073/pnas.2210539119)" 
 
@@ -85,7 +85,7 @@ Arion Stettner and Daniel Segre wrote a nice commentary on our work [here](http:
 
 #### "[Matching metabolic supply to demand optimizes microbial growth](https://www.cell.com/trends/microbiology/fulltext/S0966-842X(23)00174-9)" 
 
-Recent research has strengthened the notion that microbes allocate their biosynthetic capacity to maximize the growth rate. Yet many microbes can grow substantially faster after laboratory evolution. Here Akshit Goyal and I comment on a resource-allocation model from [Chure and Cremer](https://elifesciences.org/articles/84878), which they derive from first principles, that offers resolution to this conundrum.
+Recent research has strengthened the notion that microbes allocate their biosynthetic capacity to maximize the growth rate. Yet many microbes can grow substantially faster after laboratory evolution. Here [Akshit Goyal](https://www.icts.res.in/people/akshit-goyal) and I comment on a resource-allocation model from [Chure and Cremer](https://elifesciences.org/articles/84878), which they derive from first principles, that offers resolution to this conundrum.
 
 #### "[The metabolic rate is the trait](https://www.sciencedirect.com/science/article/pii/S096098222200224X)" 
 
