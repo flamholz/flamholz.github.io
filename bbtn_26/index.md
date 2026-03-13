@@ -10,7 +10,7 @@ Spring 2026 | MW 10-11:30AM | RRB 110
 ## Overview
 Beneath the surface of every diagram or fundamental concept in a biology textbook is an essential set of numbers: counts, concentrations, rates, sizes, and energies. What are these numbers, and what can we learn from them?
 
-The goal of this course is to introduce you to quantitative reasoning about biology. While knowing numbers at an approximate level (e.g., typical rates of transcription) is a key goal of the course, our primary goal is learning to reason quantitatively (and quickly) about biological systems. 
+The goal of this course is to introduce you to quantitative reasoning about biology. While knowing numbers at an approximate level (e.g., typical rates of transcription) is a key goal of the course, our primary goal is learning to reason quantitatively (and quickly) about biological systems. The aim is to *transform your intuition* about biology and give you an *extra sense* in designing experiments, evaluating hypotheses, and reading papers. 
 
 ## Course book
 Students will receive a copy of *Cell Biology by the Numbers* by Rob Phillips and Ron Milo. The book is also freely available online at [book.bionumbers.org](https://book.bionumbers.org/)
