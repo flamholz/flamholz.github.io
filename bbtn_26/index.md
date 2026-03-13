@@ -36,7 +36,7 @@ To follow
 - [*The Human Impacts DB*](https://www.anthroponumbers.org/catalog/) (https://www.anthroponumbers.org)
 - [*eQuilibrator*](https://equilibrator.weizmann.ac.il/): the Biochemical Thermodynamics Calculator
 
-## Useful references:**
+## Useful references:
 - [*A feeling for the numbers in biology*](https://www.pnas.org/doi/10.1073/pnas.0907732106). Milo & Phillips, PNAS 2009
 - [*Snapshot: Key Numbers in Biology*](https://www.sciencedirect.com/science/article/pii/S0092867410006732?via%3Dihub). Moran et al., Cell 2010
 - [*Snapshot: Timescales in Cell Biology*](https://www.sciencedirect.com/science/article/pii/S0092867416302082). Shamir et al., Cell 2016
