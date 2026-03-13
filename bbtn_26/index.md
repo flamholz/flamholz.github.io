@@ -3,7 +3,6 @@ layout: default
 title: Biology by the Numbers
 permalink: /bbtn_26/
 nav_exclude: true
-exclude_from_nav: true
 ---
 
 # Biology by the Numbers
