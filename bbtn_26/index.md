@@ -27,7 +27,7 @@ We expect you to come to class and participate thoughtfully. Do the homework and
 
 Its critical that you try to do the homeworks on your own before seeking help from the internet/AI/peers. Doing the work is how you build the skills the course aims to give you. If you consult peers/internet/AI in the end, disclose honestly on your submission.
 
-We  understand that you may have *occasional* conflicts. If you can't come to class, let us in advance using the [course email](mailto:rubbtn26@gmail.com). 
+We  understand that you may have *occasional* conflicts. If you can't come to class, let us in advance using the [course email](mailto:rubbtn26@gmail.com). You'll be expected to review the course notes and send us a 2+ paragraph email explaining the coolest thing you learned (or something cooler we should have covered). 
 
 ## Homeworks
 See the [course schedule](./schedule) for homework due dates. Homeworks will be sent to you by e-mail and submitted online at links provided in the e-mail.
