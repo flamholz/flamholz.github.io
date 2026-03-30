@@ -23,8 +23,8 @@ This will be updated occasionally.
 | 12 | 05/06 | Weds | Project time / HW3 | Avi + Giacomo | | |
 | 13 | 05/11 | Mon | Genes, genomes, mutations | Avi | HW 3 due | |
 | 14 | 05/13 | Weds | Evolution & speciation | Dr. Li Zhao | | |
-| 15 | 05/18 | Mon | Neuroscience BTN | Dr. Phil Kidd (Bargmann/Siggia) | | avi & giacomo out — need volunteer escort |
-| 16 | 05/20 | Weds | Immuno BTN | Dr. Tiago de Castro (Victora) | | avi & giacomo out — need volunteer escort |
+| 15 | 05/18 | Mon | Neuroscience BTN | Dr. Phil Kidd (Bargmann/Siggia) | | avi & giacomo out |
+| 16 | 05/20 | Weds | Immuno BTN | Dr. Tiago de Castro (Victora) | | avi & giacomo out |
 | 17 | 05/25 | Mon | memorial day | | no class | |
 | 18 | 05/27 | Weds | office hours HW 4 | Giacomo | | avi out |
 | 19 | 06/01 | Mon | Genetics of Olfaction BTN | Giacomo | HW 4 due | |
