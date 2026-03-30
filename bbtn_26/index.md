@@ -20,23 +20,29 @@ You'll get a copy of *Cell Biology by the Numbers* by Rob Phillips and Ron Milo.
 - **Teaching Fellow:** Giacomo Glotzer
 - **Course E-mail** [rubbtn26@gmail.com](mailto:rubbtn26@gmail.com)
 - **Lecture:** MW 10-11:30AM, RRB 110
+- **Course schedule:** [schedule here](./schedule)
 
 ## Expectations
 We expect you to come to class and participate thoughtfully. Do the homework and final project in a genuine fashion, be able to defend your work. 
 
-Its critical that you try to do the homeworks on your own before seeking help from the internet/AI/peers. Doing the work is how you build the skills the course aims to give you. If you consult peers/internet/AI in the end, please disclose honestly on your submission.
+Its critical that you try to do the homeworks on your own before seeking help from the internet/AI/peers. Doing the work is how you build the skills the course aims to give you. If you consult peers/internet/AI in the end, disclose honestly on your submission.
 
 We  understand that you may have *occasional* conflicts. If you can't come to class, let us in advance using the [course email](mailto:rubbtn26@gmail.com). 
 
 ## Homeworks
-See the [course schedule](./schedule) for homework due dates. Homeworks will be sent to you by e-mail and submitted online at links provided in the e-amil.
+See the [course schedule](./schedule) for homework due dates. Homeworks will be sent to you by e-mail and submitted online at links provided in the e-mail.
+
+Please submit homeworks as PDFs. You can do the homework digitally (Word/LaTeX/iPad/etc.) or scan hand-written documents if your handwriting is legible. Be honest with yourself about your penmanship. 
 
 ## Lecture notes
 Lecture notes will be posted to the [course schedule](./schedule) a few days after each lecture. 
 
-## Quick Links
-- [Syllabus](./syllabus)
-- [Schedule](./schedule)
+## Bonus  / extra credit 
+At any time you can earn `bonus points' in our hearts by
+* finding errors in the book / lectures
+* adding a well-researched and referenced entry to [*BioNumbers*](https://bionumbers.hms.harvard.edu/search.aspx) (bionumbers.hms.harvard.edu)
+* going above and beyond on the homework
+* submitting a fun calculation
 
 ## Web resources:
 - [*BioNumbers*](https://bionumbers.hms.harvard.edu/search.aspx) (bionumbers.hms.harvard.edu)
