@@ -32,6 +32,6 @@ You are expected at all meetings except homework office hours, which are on occa
 | 19 | 06/01 | Mon | Genetics of Olfaction BTN | Giacomo | **HW 4 due** | |
 | 20 | 06/03 | Weds | project time | Avi + Giacomo | | |
 | 21 | 06/08 | Mon | last lecture TBD | Avi | | |
-| 22 | 06/10 | Weds | final presentations | you | | |
-| 23 | 06/15 | Mon | final presentations | you | | |
-| 24 | 06/17 | Weds | final presentations | you | | |
+| 22 | 06/10 | Weds | **project presentations** | you | | |
+| 23 | 06/15 | Mon | **project presentations** | you | | |
+| 24 | 06/17 | Weds | **project presentations** | you | | |
