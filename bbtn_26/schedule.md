@@ -7,7 +7,7 @@ permalink: /bbtn_26/schedule
 # Meeting schedule
 This will be updated occasionally.
 
-| Meeting | Date | Day | Topic | Leading | Homework | Notes |
+| Meeting | Date | Day | Topic | Leading | Due | Notes |
 |---------|------|-----|-------|---------|----------|-------|
 | 1 | 3/30/2026 | Mon | welcome/intro | Avi | | |
 | 2 | 04/01/2026 | Weds | sizes | Avi | | |
