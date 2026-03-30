@@ -9,15 +9,15 @@ This will be updated occasionally.
 
 You are expected at all meetings except homework office hours, which are on occasional Wednesdays marked in bold below. These are an optional time to get help with the assignments. 
 
-| Meeting | Date | Day | Topic | Leading | Due | Notes |
+| Mtg | Date | Day | Topic | Leading | Due | Notes |
 |---------|------|-----|-------|---------|----------|-------|
-| 1 | 3/30/2026 | Mon | welcome/intro | Avi | | |
-| 2 | 04/01/2026 | Weds | sizes | Avi | | |
-| 3 | 4/6/2026 | Mon | concentrations | Avi | | |
-| 4 | 4/8/2026 | Weds | **HW1 office hours**  | Giacomo | | |
-| 5 | 04/13/2026 | Mon | diffusion / dimensional analysis | Avi | **HW1 due** | |
-| 6 | 04/15/2026 | Weds | bionumbers / project | Avi | | |
-| 7 | 04/20/2026 | Mon | rates / kinetics | Avi | | |
+| 1 | 3/30 | Mon | welcome/intro | Avi | | |
+| 2 | 04/01 | Weds | sizes | Avi | | |
+| 3 | 4/6 | Mon | concentrations | Avi | | |
+| 4 | 4/8 | Weds | **HW1 office hours**  | Giacomo | | |
+| 5 | 04/13 | Mon | diffusion / dimensional analysis | Avi | **HW1 due** | |
+| 6 | 04/15 | Weds | bionumbers / project | Avi | | |
+| 7 | 04/20 | Mon | rates / kinetics | Avi | | |
 | 8 | 04/22 | Weds | **HW2 office hours** | Giacomo | | |
 | 9 | 04/27 | Mon | composition of cells, organisms | | **HW 2 due** | |
 | 10 | 04/29 | Weds | energy | Avi | | |
