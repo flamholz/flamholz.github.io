@@ -18,14 +18,21 @@ You'll get a copy of *Cell Biology by the Numbers* by Rob Phillips and Ron Milo.
 ## Logistics
 - **Instructor:** Avi Flamholz
 - **Teaching Fellow:** Giacomo Glotzer
-- **Course E-mail**
+- **Course E-mail** [rubbtn26@gmail.com](mailto:rubbtn26@gmail.com)
 - **Lecture:** MW 10-11:30AM, RRB 110
 
-## Lecture notes
-To follow 
+## Expectations
+We expect you to come to class and participate thoughtfully. Do the homework and final project in a genuine fashion, be able to defend your work. 
+
+Its critical that you try to do the homeworks on your own before seeking help from the internet/AI/peers. Doing the work is how you build the skills the course aims to give you. If you consult peers/internet/AI in the end, please disclose honestly on your submission.
+
+We  understand that you may have *occasional* conflicts. If you can't come to class, let us in advance using the [course email](mailto:rubbtn26@gmail.com). 
 
 ## Homeworks
-To follow
+See the [course schedule](./schedule) for homework due dates. Homeworks will be sent to you by e-mail and submitted online at links provided in the e-amil.
+
+## Lecture notes
+Lecture notes will be posted to the [course schedule](./schedule) a few days after each lecture. 
 
 ## Quick Links
 - [Syllabus](./syllabus)
