@@ -11,7 +11,7 @@ You are expected at all meetings except homework office hours, which are on occa
 
 | Mtg | Date | Day | Topic | Leading | Due | Notes |
 |---------|------|-----|-------|---------|----------|-------|
-| 1 | 3/30 | Mon | welcome/intro | Avi | | |
+| 1 | 3/30 | Mon | welcome/intro | Avi | | [PDF](/assets/bbtn_26/lecture_notes/lecture1.pdf) |
 | 2 | 04/01 | Weds | sizes | Avi | | |
 | 3 | 4/6 | Mon | concentrations | Avi | | |
 | 4 | 4/8 | Weds | **HW1 office hours**  | Giacomo | | |
