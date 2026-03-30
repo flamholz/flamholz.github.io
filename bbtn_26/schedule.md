@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Biology by the Numbers
-permalink: /bbtn_26/
+permalink: /bbtn_26/schedule
 ---
 
 # Tentative meeting schedule
