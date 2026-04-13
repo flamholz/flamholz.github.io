@@ -15,7 +15,7 @@ You are expected at all meetings except homework office hours, which are on occa
 | 2 | 04/01 | Weds | sizes | Avi | | [PDF](/assets/bbtn_26/lecture_notes/lecture2.pdf) |
 | 3 | 4/6 | Mon | concentrations | Avi | | [PDF](/assets/bbtn_26/lecture_notes/lecture3.pdf) |
 | 4 | 4/8 | Weds | **HW1 office hours**  | Giacomo | | |
-| 5 | 04/13 | Mon | diffusion / dimensional analysis | Avi | **HW1 due** | |
+| 5 | 04/13 | Mon | diffusion / dimensional analysis | Avi | **HW1 due** | [PDF](/assets/bbtn_26/lecture_notes/lecture4.pdf) |
 | 6 | 04/15 | Weds | bionumbers / project | Avi | | |
 | 7 | 04/20 | Mon | rates / kinetics | Avi | | |
 | 8 | 04/22 | Weds | **HW2 office hours** | Giacomo | | |
