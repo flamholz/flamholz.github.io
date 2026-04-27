@@ -19,8 +19,8 @@ You are expected at all meetings except homework office hours, which are on occa
 | 6 | 04/15 | Weds | bionumbers / project | Avi | | [PDF](/assets/bbtn_26/lecture_notes/interlude1.pdf) |
 | 7 | 04/20 | Mon | rates / kinetics | Avi | | [PDF](/assets/bbtn_26/lecture_notes/lecture5.pdf)|
 | 8 | 04/22 | Weds | **HW2 office hours** | Giacomo | | |
-| 9 | 04/27 | Mon | composition of cells, organisms | | **HW 2 due** | |
-| 10 | 04/29 | Weds | energy | Avi | | |
+| 9 | 04/27 | Mon | energy | | **HW 2 due** | |
+| 10 | 04/29 | Weds | bacterial growth | Avi | | |
 | 11 | 05/04 | Mon | the living Earth | Avi | project idea due by email | |
 | 12 | 05/06 | Weds | Project prep / HW3 | Avi + Giacomo | | |
 | 13 | 05/11 | Mon | Genes, genomes, mutations | Avi | **HW 3 due** | |
