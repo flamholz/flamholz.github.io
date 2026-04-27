@@ -21,6 +21,7 @@ You'll get a copy of *Cell Biology by the Numbers* by Rob Phillips and Ron Milo.
 - **Course E-mail** [rubbtn26@gmail.com](mailto:rubbtn26@gmail.com)
 - **Lecture:** MW 10-11:30AM, RRB 110
 - **Course schedule:** [schedule here](./schedule)
+- **Final project info:** [PDF](/assets/bbtn_26/lecture_notes/final_project.pdf)
 
 ## Expectations
 We expect you to come to class and participate thoughtfully. Do the homework and final project in a genuine fashion, be able to defend your work. 
