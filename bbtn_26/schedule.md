@@ -21,12 +21,12 @@ You are expected at all meetings except homework office hours, which are on occa
 | 8 | 04/22 | Weds | **HW2 office hours** | Giacomo | | |
 | 9 | 04/27 | Mon | energy | | **HW 2 due** | [PDF](/assets/bbtn_26/lecture_notes/lecture6.pdf) |
 | 10 | 04/29 | Weds | rates & energy II | Avi | | [PDF](/assets/bbtn_26/lecture_notes/lecture7.pdf) |
-| 11 | 05/04 | Mon | the living Earth | Avi | project idea due by email | |
+| 11 | 05/04 | Mon | genes, genomes, mutations the living Earth | Avi | project idea by email | [PDF](/assets/bbtn_26/lecture_notes/lecture8.pdf) |
 | 12 | 05/06 | Weds | Project prep / HW3 | Avi + Giacomo | | |
-| 13 | 05/11 | Mon | Genes, genomes, mutations | Avi | **HW 3 due** | |
-| 14 | 05/13 | Weds | Evolution & speciation | Dr. Li Zhao | | |
-| 15 | 05/18 | Mon | Neuroscience BTN | Dr. Phil Kidd (Nina) | Avi & Giacomo out | |
-| 16 | 05/20 | Weds | Immuno BTN | Dr. Tiago de Castro (Julie) | Avi & Giacomo out | |
+| 13 | 05/11 | Mon | the living Earth | Avi | **HW 3 due** | |
+| 14 | 05/13 | Weds | evolution | Dr. Li Zhao | | |
+| 15 | 05/18 | Mon | neuroscience BTN | Dr. Phil Kidd (Nina) | Avi & Giacomo out | |
+| 16 | 05/20 | Weds | immuno BTN | Dr. Tiago de Castro (Julie) | Avi & Giacomo out | |
 | 17 | 05/25 | Mon | memorial day | | no class | |
 | 18 | 05/27 | Weds | **HW4 office hours** | Giacomo | | Avi out |
 | 19 | 06/01 | Mon | Genetics of Olfaction BTN | Giacomo | **HW 4 due** | |
