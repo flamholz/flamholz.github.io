@@ -26,7 +26,7 @@ You are expected at all meetings except homework office hours, which are on occa
 | 13 | 05/11 | Mon | the living Earth | Avi | **HW 3 due** | [PDF](/assets/bbtn_26/lecture_notes/lecture9.pdf) |
 | 14 | 05/13 | Weds | evolution | Dr. Li Zhao | | |
 | 15 | 05/18 | Mon | neuroscience BTN | Dr. Phil Kidd (Nina) | Avi & Giacomo out | |
-| 16 | 05/20 | Weds | immuno BTN | Dr. Tiago de Castro (Julie) | Avi & Giacomo out | |
+| 16 | 05/20 | Weds | immuno BTN | Dr. Tiago de Castro (Julie) | Avi & Giacomo out | [PDF](/assets/bbtn_26/lecture_notes/tiago_immuno_btn.pdf) |
 | 17 | 05/25 | Mon | memorial day | | no class | |
 | 18 | 05/27 | Weds | **HW4 office hours** | Giacomo | | Avi out |
 | 19 | 06/01 | Mon | Genetics of Olfaction BTN | Giacomo | **HW 4 due** | |
