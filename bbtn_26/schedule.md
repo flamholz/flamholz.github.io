@@ -29,7 +29,7 @@ You are expected at all meetings except homework office hours, which are on occa
 | 16 | 05/20 | Weds | immuno BTN | Dr. Tiago de Castro (Julie) | Avi & Giacomo out | [PDF](/assets/bbtn_26/lecture_notes/tiago_immuno_btn.pdf) |
 | 17 | 05/25 | Mon | memorial day | | no class | |
 | 18 | 05/27 | Weds | **HW4 office hours** | Giacomo | | Avi out |
-| 19 | 06/01 | Mon | Genetics of Olfaction BTN | Giacomo | **HW 4 due** | |
+| 19 | 06/01 | Mon | Genetics of Olfaction BTN | Giacomo | **HW 4 due** | [PDF](/assets/bbtn_26/lecture_notes/giacomo_olfaction_btn.pdf) |
 | 20 | 06/03 | Weds | project time | Avi + Giacomo | | |
 | 21 | 06/08 | Mon | last lecture TBD | Avi | | |
 | 22 | 06/10 | Weds | **project presentations** | you | | |
