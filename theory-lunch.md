@@ -8,11 +8,18 @@ permalink: /theory-lunch/
 
 Research talks are formal and typically focus on data. Theory Lunch offers an opportunity to discuss *concepts* in biology over an informal lunchtime chalk talk. Theory Lunch is an opportunity to learn how people think in disparate fields, get to know local colleagues, and potentially uncover resonances with your own research.
 
-[![Theory Lunch chalk talk](https://lh3.googleusercontent.com/pw/AP1GczNXvXv32bQLPIxCN0u3fIBsqAyKnbKSiOg5J6YzAGGrE49ky8TzRWPHEBJxyBcIdyJfw00fDeiM1gb8MJf1iR8HIFdPAeAJQ7VEwBDyWe68uSlA8M5pV9fhrNs77yAo7O-siqeet9I8QAzeHYJ1pUq2Iw=w2218-h1664-s-no-gm?authuser=0)](https://photos.app.goo.gl/1SUbZJhuX4cQ29L17)
+[![Theory Lunch chalk talk](https://lh3.googleusercontent.com/pw/AP1GczNXvXv32bQLPIxCN0u3fIBsqAyKnbKSiOg5J6YzAGGrE49ky8TzRWPHEBJxyBcIdyJfw00fDeiM1gb8MJf1iR8HIFdPAeAJQ7VEwBDyWe68uSlA8M5pV9fhrNs77yAo7O-siqeet9I8QAzeHYJ1pUq2Iw=w2218-h1664-s-no-gm?authuser=0){: .center-image .theory-lunch-photo }](https://photos.app.goo.gl/1SUbZJhuX4cQ29L17)
 
 *See more photos in the [Theory Lunch album](https://photos.app.goo.gl/1SUbZJhuX4cQ29L17).*
 
-## Speakers
+## Upcoming Speakers
+
+| Date | Speaker | Affiliation | Title |
+|------|---------|-------------|-------|
+| October 30, 2026 | Dr. Sarah Kostinski | NYU | First passage statistics in biophysics |
+| November 20, 2026 | Dr. Jacob Zavatone-Veth | Rockefeller University | To be announced |
+
+## Past Speakers
 
 | Date | Speaker | Affiliation | Title |
 |------|---------|-------------|-------|
