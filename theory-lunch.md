@@ -16,18 +16,18 @@ Research talks are formal and typically focus on data. Theory Lunch offers an op
 
 | Date | Speaker | Affiliation | Title |
 |------|---------|-------------|-------|
-| October 30, 2026 | Dr. Sarah Kostinski | NYU | First passage statistics in biophysics |
-| November 20, 2026 | Dr. Jacob Zavatone-Veth | Rockefeller University | To be announced |
+| October 30, 2026 | Dr. [Sarah Kostinski](https://skostinski.github.io/) | NYU | First passage statistics in biophysics |
+| November 20, 2026 | Dr. [Jacob Zavatone-Veth](https://jzv.io/) | Rockefeller University | To be announced |
 
 ## Past Speakers
 
 | Date | Speaker | Affiliation | Title |
 |------|---------|-------------|-------|
-| June 12, 2026 | Dr. Merav Stern | Rockefeller Physics Fellow | Dynamical Mean-Field Theory: A Framework for Linking Structure and Dynamics in Biological Networks |
-| May 15, 2026 | Dr. Jialong Jiang | Rockefeller Physics Fellow | Inferring Gene Interactions from Correlation Data with Perturbations |
-| April 3, 2026 | Dr. Carlos Sonnenschein | Tufts | Traveling from the Old Biology to the New |
-| March 27, 2026 | Dr. Tobias Janowitz | CSHL | Dynamic Systems Theory of Cancer Cachexia |
-| January 23, 2026 | Dr. Jerelle Joseph | Princeton | Modeling Biomolecular Condensates |
-| November 14, 2025 | Dr. Jeremy Owen | Princeton | Chromatin as a Three-Dimensional Memory Machine |
-| October 24, 2025 | Dr. Akshit Goyal | ICTS Bangalore | Finding Signatures of Life Guided by Ecological Principles |
-| September 26, 2025 | Dr. Phil Kidd | Flatiron | Robust Feedback Control Implemented by a Single *C. elegans* Neuron |
+| June 12, 2026 | Dr. [Merav Stern](https://www.rockefeller.edu/our-scientists/independent-fellows/12312-merav-stern/) | Rockefeller Physics Fellow | Dynamical Mean-Field Theory: A Framework for Linking Structure and Dynamics in Biological Networks |
+| May 15, 2026 | Dr. [Jialong Jiang](https://www.rockefeller.edu/our-scientists/independent-fellows/12748-jialong-jiang/) | Rockefeller Physics Fellow | Inferring Gene Interactions from Correlation Data with Perturbations |
+| April 3, 2026 | Dr. [Carlos Sonnenschein](https://www.iea-nantes.fr/en/fellows/carlos-sonnenschein) | Tufts | Traveling from the Old Biology to the New |
+| March 27, 2026 | Dr. [Tobias Janowitz](https://www.janowitzlab.com/) | CSHL | Dynamic Systems Theory of Cancer Cachexia |
+| January 23, 2026 | Dr. [Jerelle Joseph](https://josephgroup.princeton.edu/) | Princeton | Modeling Biomolecular Condensates |
+| November 14, 2025 | Dr. [Jeremy Owen](https://jaowen.github.io/) | Princeton | Chromatin as a Three-Dimensional Memory Machine |
+| October 24, 2025 | Dr. [Akshit Goyal](https://www.icts.res.in/people/akshit-goyal) | ICTS Bangalore | Finding Signatures of Life Guided by Ecological Principles |
+| September 26, 2025 | Dr. [Phil Kidd](https://neural-circuits-and-algorithms.github.io/people/) | Flatiron | Robust Feedback Control Implemented by a Single *C. elegans* Neuron |
