@@ -6,7 +6,7 @@ permalink: /theory-lunch/
 
 ## About
 
-Research talks are formal and typically focus on data. Theory Lunch offers an opportunity to discuss *concepts* in biology over an informal lunchtime chalk talk. Theory Lunch is an opportunity to learn how people think in disparate fields, get to know local colleagues, and potentially uncover resonances with your own research. We definitely took inspiration from the (https://sysbio.med.harvard.edu/theorylunch)[Theory Lunch series] that Jeremey Gunawardena previously ran at Harvard.
+Research talks are formal and typically focus on data. Theory Lunch offers an opportunity to discuss *concepts* in biology over an informal lunchtime chalk talk. Theory Lunch is an opportunity to learn how people think in disparate fields, get to know local colleagues, and potentially uncover resonances with your own research. We definitely took inspiration from the [Theory Lunch series](https://sysbio.med.harvard.edu/theorylunch) that Jeremey Gunawardena previously ran at Harvard.
 
 [![Theory Lunch chalk talk](https://lh3.googleusercontent.com/pw/AP1GczNXvXv32bQLPIxCN0u3fIBsqAyKnbKSiOg5J6YzAGGrE49ky8TzRWPHEBJxyBcIdyJfw00fDeiM1gb8MJf1iR8HIFdPAeAJQ7VEwBDyWe68uSlA8M5pV9fhrNs77yAo7O-siqeet9I8QAzeHYJ1pUq2Iw=w2218-h1664-s-no-gm?authuser=0){: .center-image .theory-lunch-photo }](https://photos.app.goo.gl/1SUbZJhuX4cQ29L17)
 
