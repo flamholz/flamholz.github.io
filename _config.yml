@@ -37,6 +37,7 @@ show_excerpts: true
 header_pages:
   - about.md
   - selecta.md
+  - theory-lunch.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
