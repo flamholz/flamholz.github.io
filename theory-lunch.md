@@ -12,8 +12,6 @@ Come learn how people think in different fields, get to know your colleagues, an
 
 [![Theory Lunch chalk talk](https://lh3.googleusercontent.com/pw/AP1GczNXvXv32bQLPIxCN0u3fIBsqAyKnbKSiOg5J6YzAGGrE49ky8TzRWPHEBJxyBcIdyJfw00fDeiM1gb8MJf1iR8HIFdPAeAJQ7VEwBDyWe68uSlA8M5pV9fhrNs77yAo7O-siqeet9I8QAzeHYJ1pUq2Iw=w2218-h1664-s-no-gm?authuser=0){: .center-image .theory-lunch-photo }](https://photos.app.goo.gl/1SUbZJhuX4cQ29L17)
 
-*See more photos in the [Theory Lunch album](https://photos.app.goo.gl/1SUbZJhuX4cQ29L17).* 
-
 Theory lunch is often (but not always) held in the Physics Seminar Room at Rockefeller (CRC A30). If you're in the NYC area and you'd like to join or present an upcoming meeting, please write to me. 
 
 ## Upcoming Speakers
