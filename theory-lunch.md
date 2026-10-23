@@ -6,7 +6,7 @@ permalink: /theory-lunch/
 
 ## Theory Lunch
 
-Research talks are formal and typically focus on data. Theory Lunch is an opportunity to discuss *concepts* in biology over an informal lunchtime chalk talk. Food is provided. 
+Research talks are formal and typically focus on data. The goal of of the Tri-I Theory Lunch is to *concepts* in biology over an informal lunchtime chalk talk. Theory lunch is co-hosted by my group and the group of [Ed Reznik](https://www.mskcc.org/research-areas/labs/ed-reznik) at MSKCC. Food is provided. 
 
 Come learn how people think in different fields, get to know your colleagues, and potentially uncover resonances with your own research. We definitely took inspiration from the [Theory Lunch series](https://sysbio.med.harvard.edu/theorylunch) that Jeremey Gunawardena previously ran at Harvard.
 
