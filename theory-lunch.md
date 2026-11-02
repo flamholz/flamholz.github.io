@@ -18,13 +18,14 @@ Theory lunch is often (but not always) held in the Physics Seminar Room at Rocke
 
 | Date | Speaker | Affiliation | Title |
 |------|---------|-------------|-------|
-| October 30, 2026 | Dr. [Sarah Kostinski](https://skostinski.github.io/) | NYU | First passage statistics in biophysics |
-| November 20, 2026 | Dr. [Jacob Zavatone-Veth](https://jzv.io/) | Rockefeller University | To be announced |
+| November 20, 2026 | Dr. [Jacob Zavatone-Veth](https://jzv.io/) | Rockefeller University | Learning and identifying computations in recurrent neural networks |
+| December 18, 2026 | Dr. [Stephen Martis](https://stephen-martis.github.io/) | MSKCC | To be announced |
 
 ## Past Speakers
 
 | Date | Speaker | Affiliation | Title |
 |------|---------|-------------|-------|
+| October 30, 2026 | Dr. [Sarah Kostinski](https://skostinski.github.io/) | NYU | First passage statistics in biophysics |
 | June 12, 2026 | Dr. [Merav Stern](https://www.rockefeller.edu/our-scientists/independent-fellows/12312-merav-stern/) | Rockefeller Physics Fellow | Dynamical Mean-Field Theory: A Framework for Linking Structure and Dynamics in Biological Networks |
 | May 15, 2026 | Dr. [Jialong Jiang](https://www.rockefeller.edu/our-scientists/independent-fellows/12748-jialong-jiang/) | Rockefeller Physics Fellow | Inferring Gene Interactions from Correlation Data with Perturbations |
 | April 3, 2026 | Dr. [Carlos Sonnenschein](https://www.iea-nantes.fr/en/fellows/carlos-sonnenschein) | Tufts | Traveling from the Old Biology to the New |
